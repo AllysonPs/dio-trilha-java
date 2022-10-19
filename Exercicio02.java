@@ -11,7 +11,7 @@ public class Exercicio02 {
 
         System.out.println("Tabuada de número " + tabuada);
         for(int i = 0; i <= 10; i++){
-            System.out.println(tabuada + " x " + + i + " = " + (tabuada * i));
+            System.out.println(tabuada + " x " + + i + " = " + (tabuada * i)); 
         }
     }
 }
